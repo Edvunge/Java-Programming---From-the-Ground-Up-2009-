@@ -7,60 +7,30 @@ Part 1 -*-  The Fundamental Tools 1
 
 
 <br>
-<h4> Chapter 1 </h4>   
-- An Introduction to Computers and Java 2
-<br>
+Chapter 1 
+- An Introduction to Computers and Java 2 
 
+ Chapter 2  
+  - Expressions and Data Types 23 
 
+Chapter 3   
+- Variables and Assignment 61 
 
-<br>
-<h4> Chapter 2 </h4>   
-Expressions and Data Types 23
-<br>
+ Chapter 4    
+ - Selection and Decision: if Statements 97
 
+ Chapter 5    
+- Repetition 137
 
+Chapter 6    
+- Methods 191
 
-<br>
-<h4> Chapter 3 </h4>   
-Variables and Assignment 61
-<br>
+ Chapter 7    
+- Arrays and Lists: One Name for Many Data 239
 
+Chapter 8    
+- Recursion 298
 
-
-<br>
-<h4> Chapter 4 </h4>   
-Selection and Decision: if Statements 97
-<br>
-
-
-
-<br>
-<h4> Chapter 5 </h4>   
-Repetition 137
-<br>
-
-
-
-
-<br>
-<h4> Chapter 6 </h4>   
-Methods 191
-<br>
-
-
-
-
-<br>
-<h4> Chapter 7 </h4>   
-Arrays and Lists: One Name for Many Data 239
-<br>
-
-
-
-<br>
-<h4> Chapter 8 </h4>   
-Recursion 298
-<br>
 
 
 <br><br><br>
@@ -68,41 +38,22 @@ Recursion 298
 <h2>
 Part 2 -*-  Principles of Object-Oriented Programming 347
 </h2>
-
-
-
-
-<br>
-<h4> Chapter 9 </h4>
-Objects and Classes I: Encapsulation, Strings, and Things 348
 <br>
 
+Chapter 9 
+- Objects and Classes I: Encapsulation, Strings, and Things 348
 
+Chapter 10 
+- Objects and Classes II: Writing Your Own Classes 403
 
+Chapter 11 
+- Designing with Classes and Objects 463
 
-<br>
-<h4> Chapter 10 </h4>
-Objects and Classes II: Writing Your Own
-Classes 403
-<br>
+Chapter 12 
+- Inheritance 523
 
-
-<br>
-<h4> Chapter 11 </h4>
-Designing with Classes and Objects 463
-<br>
-
-
-<br>
-<h4> Chapter 12 </h4>
-Inheritance 523
-<br>
-
-
-<br>
-<h4> Chapter 13 </h4>
-Polymorphism 589
-<br>
+Chapter 13 
+- Polymorphism 589
 
 
 <br><br><br>
@@ -110,53 +61,36 @@ Polymorphism 589
 <h2>
 Part 3 -*-  More Java Classes
 </h2>
-
-<br>
-<h4> Chapter 14 </h4>
-More Java Classes: Wrappers and
 <br>
 
+Chapter 14 
+- More Java Classes: Wrappers and
 
-<br>
-<h4> Chapter 15 </h4>
-Stream I/O and Random Access Files 691
-<br>
+Chapter 15 
+- Stream I/O and Random Access Files 691
 
-<br>
-<h4> Chapter 16 </h4>
-Data Structures and Generics 758
-<br>
+Chapter 16 
+- Data Structures and Generics 758
 
-
-<br>
-<h4> Chapter 17 </h4>
-The Java Collections Framework 827
-<br>
+Chapter 17 
+- The Java Collections Framework 827
 
 <br><br><br>
 <br>
 <h2>
 Part 4 -*-  Basic Graphics, GUIs, and Event-Driven Programming 885
 </h2>
-
-
-<br>
-<h4> Chapter 18 </h4>
-Graphics: AWT and Swing 886
 <br>
 
+ Chapter 18 
+- Graphics: AWT and Swing 886
 
-<br>
-<h4> Chapter 19 </h4>
-Event-Driven Programming 954
-<br>
+Chapter 19 
+- Event-Driven Programming 954
 
 
-<br>
-<h4> Chapter 20 </h4>
-A Case Study: Video Poker, Revisited 1054
-<br>
-
+Chapter 20 
+- A Case Study: Video Poker, Revisited 1054
 
 
 <br><br><br>
